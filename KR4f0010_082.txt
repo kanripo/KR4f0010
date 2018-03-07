@@ -6,8 +6,12 @@
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 82
 #+PROPERTY: FILE SB04n0419-082牧齋初學集-卷第八十二.
+
+# SB1_1648-002.png
+# page missing
 <pb:KR4f0010_SBCK_082-1a>¶
-¶
+# SB1_1648-003.png
+
 　　關壯繆侯畵像贊¶
 惟壯繆侯虎臣國士王封帝號崇我明祀羯奴¶
 蛾賊盜賊之靡游䰟未滅惟帝之恥都山鐡刀¶
